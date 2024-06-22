@@ -59,7 +59,7 @@ def lambda_handler(event, context):
         f"usrkey={USER_KEY_VALUE}&"
         "dest_online_auth_id="
     )
-    # body= "dest_alias=20&dest_address=yoonsik141%40gmail.com&dest_note=&subject=Transfer+file+from+%22Epson+Connect+Scan+to+Cloud%22&mailbody=&dest_type=email&serial_number=X7S3006860&usrkey={USER_KEY_VALUE}&dest_online_auth_id="
+    
     response = requests.post(url, headers=headers, data=body)
 
     print("응갑결과 : " +  response.text)
