@@ -23,7 +23,7 @@ def lambda_handler(event, context):
         response = openapi.get("/v1.0/iot-03/devices/{}/functions".format(DEVICE_ID))
         logging.info("Device Functions: %s", response)
 
-        # 5초 쉬기
+        # 10초 쉬기
         time.sleep(10)
 
         commands = {
