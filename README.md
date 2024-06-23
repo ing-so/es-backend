@@ -2,6 +2,8 @@
 ![img.png](./image/weeing.png)
 - 비대면 셀프 스캔 서비스
 
+# Architecture
+![img.png](./image/archi-weeing.png)
 # Stack
 - python, AWS lambda
 
