@@ -2,6 +2,9 @@
 ![img.png](./image/weeing.png)
 - 비대면 셀프 스캔 서비스
 
+# Demo Video
+![동영상](./image/weeing_v3.gif)
+
 # Stack
 - python, AWS lambda
 
