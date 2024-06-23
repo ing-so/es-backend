@@ -2,9 +2,6 @@
 ![img.png](./image/weeing.png)
 - 비대면 셀프 스캔 서비스
 
-# Demo Video
-![동영상](./image/weeing_v4.gif)
-
 # Stack
 - python, AWS lambda
 
@@ -25,3 +22,7 @@
 3. lambda_function.py에 필요한 라이브러리를 설치
 4. 설치한 라이브러리와 함께 lambda_function.py(main함수)를 zip으로 묶어 업로드(배포)
 5. AWS API Gateway혹은 Lambda의 Function URL을 사용하여 실행
+
+# Demo Video
+![동영상](./image/weeing_v4.gif)
+
