@@ -1,7 +1,7 @@
 # Weeing[위잉]
 ![img.png](./image/weeing.png)
 - 비대면 셀프 스캔 서비스
-
+<br>
 
 # Architecture
 ![img.png](./image/archi-weeing.png)
